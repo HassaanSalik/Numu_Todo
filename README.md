@@ -1,6 +1,6 @@
-Please change to database connection info on .env and vendor\laravel\lumen-framework\config\database.php because database parameters on my machine are bit different from defaluts.
+Please change database connection info in .env and vendor\laravel\lumen-framework\config\database.php because database parameters on my machine are bit different from defaluts.
 
-Please manually create a user in data base, I was unable to add that functionality.
+Please manually create a user in database, I was unable to add that functionality.
 
 Login
 http://localhost:<port>/api/login/?email={Email}&password={password}
